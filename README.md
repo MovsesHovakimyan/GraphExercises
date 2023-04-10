@@ -1,4 +1,3 @@
-
 #A simple program that plots a the adjacency matrix for graph.
 
 #Usage
