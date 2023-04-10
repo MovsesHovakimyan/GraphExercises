@@ -1,5 +1,8 @@
 #A simple program that plots a the adjacency matrix for graph.
 
+
+
+
 # Usage
 
 To use the program, follow this steps:
@@ -8,7 +11,7 @@ To use the program, follow this steps:
 
 2.Make sure you can use the git system.
 
-3.Then run the git clone command as follows ` https://github.com/MovsesHovakimyan/Graph.git
+3.Then run the git clone command as follows ` https://github.com/MovsesHovakimyan/GraphExercises.git
 
 4.After successfully cloning, move to the final changes branch named "main" as follows `
   git checkout main
