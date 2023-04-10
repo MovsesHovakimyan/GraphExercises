@@ -1,9 +1,5 @@
 #A simple program that plots a the adjacency matrix for graph.
-
-
-
-
-# Usage
+#Usage
 
 To use the program, follow this steps:
 
